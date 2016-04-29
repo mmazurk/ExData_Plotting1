@@ -2,6 +2,7 @@
 # Mazurk3
 # Project #1 of Exploratory Data Analysis
 # Set the current working directory
+# Added test line for using GitHub with RStudio
 
 setwd("~")
 
